@@ -17,7 +17,7 @@ This is a ios client IM demo, it use the google protobuf as the protocol for net
           make -j 4 
           sudo make install
 4. Error when compiling:
-          You may encounter an error say somrthing error in file ".../message.cc", just go to folder "../src/google/protobuf" to find out the file and add "#include <istream>".
+          You may encounter an error say something error in file ".../message.cc", just go to folder "../src/google/protobuf" to find out the file and add "#include \<istream\>".
 
 5. After built the protobuf cmd tool
    Create a .proto file, this file is the bean model, then use proto cmd line to bulid the .proto to objective-c      file. (for the cmd line,please refer to the file "create.sh" under thie project folder              "../TCPClientManager/TCPAPI/PBTemp/")
