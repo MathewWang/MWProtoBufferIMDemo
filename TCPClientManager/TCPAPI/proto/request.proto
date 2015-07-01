@@ -1,0 +1,13 @@
+
+message RequestHeader{
+	required int32 Sid=1;
+	required int32 Cid=2;
+	required int32 SeqNo=3;
+} 
+
+
+message RequestMsg{
+  required RequestHeader header=1;
+  required bytes body=2;
+	
+}

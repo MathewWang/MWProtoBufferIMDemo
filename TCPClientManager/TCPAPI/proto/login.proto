@@ -1,0 +1,13 @@
+
+message LoginReq  
+{  
+   optional string userName= 1;  
+   optional int32 password= 2;  
+} 
+
+message LoginRes  
+{  
+  
+   optional int32 resCode= 1;  
+} 
+

@@ -1,0 +1,15 @@
+
+message SendReq  
+{  
+   optional string userName= 1; 
+   required string toUserName=2;
+   required string content=3;
+} 
+
+message SendRes  
+{  
+   optional int32 resCode= 1;  
+   optional string fromUserName=3;
+   optional string content=4;
+} 
+

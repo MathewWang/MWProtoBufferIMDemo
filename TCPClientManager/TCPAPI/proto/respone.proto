@@ -1,0 +1,13 @@
+
+message ResponseHeader{
+	required int32 Sid=1;
+	required int32 Cid=2;
+	required int32 SeqNo=3;
+	required int32 Code=4;
+} 
+
+message ResponeMsg{
+  required ResponseHeader header=1;
+  required bytes body=2;
+	
+}

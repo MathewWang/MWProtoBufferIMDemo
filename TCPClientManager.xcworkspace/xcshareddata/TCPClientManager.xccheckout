@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7DEA5987-1CB4-49B9-BC8B-E3CB5C55CDC3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TCPClientManager</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7D9CC85B9513577FDFEE042837F872FBDB7221DB</key>
+		<string>git.coding.net:jiamiantech/juzi_chat_demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/TCPClientManager.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7D9CC85B9513577FDFEE042837F872FBDB7221DB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git.coding.net:jiamiantech/juzi_chat_demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7D9CC85B9513577FDFEE042837F872FBDB7221DB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7D9CC85B9513577FDFEE042837F872FBDB7221DB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>juzi_chat_demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
