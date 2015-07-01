@@ -7,11 +7,11 @@ This is a ios client IM demo, it use the google protobuf as the protocol for net
 2. Version of Protobuf Compile Tool: 2.2.0 (http://code.google.com/p/metasyntactic/downloads/list)
 
 3. Build Protobuf cmd line steps:
-   Download latest version of procbuffer. [https://code.google.com/p/protobuf/downloads/list].
+   Download latest version of procbuffer. [http://code.google.com/p/metasyntactic/downloads/list].
           tar xfvj protobuf-2.2.0.tar.bz2 
    Configure the protobuf. 
 
-          cd protobuf-2.5.0
+          cd protobuf-2.2.0
           ./configure CC=clang CXX=clang++ CXXFLAGS='-std=c++11 -stdlib=libc++ -O3 -g' LDFLAGS='-stdlib=libc++'                   LIBS="-lc++ -lc++abi"
    Make the source 
           make -j 4 
